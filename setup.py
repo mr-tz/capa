@@ -11,7 +11,7 @@ import sys
 
 import setuptools
 
-# halo==0.0.30 is the last version to support py2.7
+# halo==0.0.31 is the last version to support py2.7
 requirements = [
     "six",
     "tqdm",
@@ -21,7 +21,7 @@ requirements = [
     "termcolor",
     "ruamel.yaml",
     "wcwidth",
-    "halo==0.0.30",
+    "halo==0.0.31",
     "ida-settings==2.1.0",
 ]
 
