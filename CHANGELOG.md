@@ -2527,3 +2527,4 @@ Download a standalone binary below and checkout the readme [here on GitHub](http
 
 - [capa v1.0.0...v1.1.0](https://github.com/mandiant/capa/compare/v1.0.0...v1.1.0)
 - [capa-rules v1.0.0...v1.1.0](https://github.com/mandiant/capa-rules/compare/v1.0.0...v1.1.0)
+
